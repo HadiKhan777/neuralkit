@@ -1,5 +1,7 @@
 # neuralkit
 
+[hadikhan777.github.io/portfolio](https://hadikhan777.github.io/portfolio/)
+
 Neural network framework from scratch — NumPy only. No PyTorch, no TensorFlow, no sklearn.
 
 Every forward pass, backward pass, optimizer step, and layer norm is written by hand from the mathematical definitions.
